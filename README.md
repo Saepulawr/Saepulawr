@@ -35,13 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saepulawr&theme=github_dark" alt="stats" />
   <img src="https://streak-stats.demolab.com?user=Saepulawr&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saepulawr&theme=github_dark" alt="top languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Saepulawr&theme=github_dark&utcOffset=7" alt="productive time" />
 </p>
 
 ## Contact
