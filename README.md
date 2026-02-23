@@ -40,7 +40,7 @@
 
 ## Contact
 
-- Email: **hai@saepul.com**
+- Email: **hi@saepul.com**
 - LinkedIn: **https://www.linkedin.com/in/saepulawr**
 - Website: **https://saepul.com**
 
