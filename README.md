@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Saepul Anwar</h1>
-<h3 align="center">Software Engineer | Flutter, Backend Systems, and DevOps</h3>
+<h3 align="center">Software Engineer | Flutter, Backend Systems, DevOps, and AI Engineering Interest</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=2E9EF7&center=true&vCenter=true&width=700&lines=Building+reliable+software+for+real-world+operations;Focused+on+Flutter%2C+Backend%2C+and+CI%2FCD+delivery;Always+improving+quality%2C+performance%2C+and+maintainability" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=2E9EF7&center=true&vCenter=true&width=820&lines=Building+reliable+software+for+real-world+operations;Focused+on+Flutter%2C+Spring+Boot%2C+Backend%2C+and+CI%2FCD;Exploring+AI+Engineering+and+specs-driven+vibe+coding+with+OpenSpec" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,19 +14,21 @@
 - Software engineer based in Indonesia.
 - I build production-ready applications with a focus on stability and maintainability.
 - Main interests: mobile engineering, IoT telemetry platforms, and release automation.
-- I value clean architecture, observability, and pragmatic delivery.
+- I am also interested in growing as an AI Engineer.
+- Currently learning specs-driven vibe coding workflows using OpenSpec.
 
 ## Focus Areas
 
 - Cross-platform app development with Flutter
-- Backend and API engineering (Laravel, Node, Go)
+- Backend and API engineering (Laravel, Spring Boot, Node, Go)
 - CI/CD hardening and operational reliability
 - Test strategy and contributor-friendly engineering standards
+- AI engineering exploration and practical automation use cases
 
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dart,flutter,php,laravel,js,ts,react,go,docker,jenkins,postgres,redis,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,java,spring,php,laravel,js,ts,react,go,docker,jenkins,postgres,redis,git,vscode" />
 </p>
 
 ## GitHub Analytics
@@ -53,8 +55,9 @@
 I am open to collaborating on:
 
 - Flutter and cross-platform product development
-- Backend/API engineering projects
+- Backend/API engineering projects (including Spring Boot)
 - CI/CD and deployment reliability initiatives
+- AI engineering and automation-oriented solutions
 
 If your project needs practical engineering execution, feel free to connect via GitHub.
 
