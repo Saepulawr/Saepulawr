@@ -11,10 +11,8 @@
 
 ## About Me
 
-- Software engineer based in Indonesia.
-- I build production-ready applications with a focus on stability and maintainability.
-- Main interests: mobile engineering, IoT telemetry platforms, and release automation.
-- I am also interested in growing as an AI Engineer.
+- Building production-ready software across Flutter, backend systems, and DevOps.
+- Interested in AI engineering and practical automation use cases.
 - Currently learning specs-driven vibe coding workflows using OpenSpec.
 
 ## Focus Areas
@@ -23,7 +21,6 @@
 - Backend and API engineering (Laravel, Spring Boot, Node, Go)
 - CI/CD hardening and operational reliability
 - Test strategy and contributor-friendly engineering standards
-- AI engineering exploration and practical automation use cases
 
 ## Tech Stack
 
@@ -47,16 +44,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Saepulawr&theme=github_dark&utcOffset=7" alt="productive time" />
 </p>
 
-## Collaboration
+## Contact
 
-I am open to collaborating on:
-
-- Flutter and cross-platform product development
-- Backend/API engineering projects (including Spring Boot)
-- CI/CD and deployment reliability initiatives
-- AI engineering and automation-oriented solutions
-
-If your project needs practical engineering execution, feel free to connect via GitHub.
+- Email: **hai@saepul.com**
+- LinkedIn: **https://www.linkedin.com/in/saepulawr**
+- Website: **https://saepul.com**
 
 ## Professional Principles
 
