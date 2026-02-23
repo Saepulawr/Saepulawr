@@ -34,20 +34,17 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Saepulawr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Saepulawr&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saepulawr&theme=github_dark" alt="profile details" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saepulawr&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saepulawr&theme=github_dark" alt="stats" />
+  <img src="https://streak-stats.demolab.com?user=Saepulawr&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saepulawr&theme=tokyo-night&hide_border=true" alt="activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saepulawr&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saepulawr&theme=github_dark" alt="top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Saepulawr&theme=github_dark&utcOffset=7" alt="productive time" />
 </p>
 
 ## Collaboration
